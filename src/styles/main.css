@@ -1,0 +1,11 @@
+.AppBar {
+  background-color: #3f51b5;
+}
+
+.Toolbar {
+  justify-content: center;
+}
+
+.MainContainer {
+  margin-top: 24px;
+}
